@@ -8,3 +8,9 @@ This repository showcases projects whose documentation has been translated using
 
 
 Visit Website: [zdoc.app](https://www.zdoc.app)
+
+## Contact
+
+If you have documentation that needs translation, please get in touch:
+
+📧 neo.dowithless@gmail.com
