@@ -2,7 +2,7 @@
 
 **[zdoc](https://www.zdoc.app)** is a free tool that translates GitHub READMEs into multiple languages and keeps them automatically up to date.
 
-Currently, it supports automated translation for documentation built with [Mintlify](https://mintlify.com/), [Nextra](https://nextra.site/) and [Fumadocs](https://fumadocs.dev/).
+Currently, it supports automated translation for documentation built with [Mintlify](https://mintlify.com/), [Nextra](https://nextra.site/), [mkdocs](https://www.mkdocs.org/) and [Fumadocs](https://fumadocs.dev/).
 
 This repository showcases projects whose documentation has been translated using **[zdoc](https://www.zdoc.app)**.
 
